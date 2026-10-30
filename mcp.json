@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adplug-meta-ads": {
+      "type": "http",
+      "url": "https://api.adplug.app/mcp/meta-ads"
+    }
+  }
+}

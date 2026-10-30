@@ -1,0 +1,37 @@
+{
+  "name": "adplug-meta-ads",
+  "displayName": "AdPlug: Meta Ads",
+  "version": "1.0.0",
+  "description": "Safely connect Meta Ads (Facebook and Instagram) to Grok, Grok Bot and Cursor, so your agent can check campaigns, find out why ads aren't delivering and make the changes you approve. Built for paid social managers, agencies and in-house teams.",
+  "author": {
+    "name": "AdPlug",
+    "email": "support@adplug.app"
+  },
+  "publisher": "MEANDATA IT SRL",
+  "homepage": "https://adplug.app/guides/meta-ads",
+  "repository": "https://github.com/adplug-app/adplug-meta-ads-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "adplug",
+    "meta-ads",
+    "facebook-ads",
+    "instagram-ads",
+    "ppc",
+    "paid-social",
+    "ad-library",
+    "audiences",
+    "catalogues",
+    "lead-forms",
+    "ad-reporting",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "advertising",
+    "marketing",
+    "ppc",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
